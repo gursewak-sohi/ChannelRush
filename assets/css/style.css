@@ -214,6 +214,7 @@ body {
     text-decoration: none;
     color: #000;
     white-space: nowrap;
+    line-height: 20px;
 }
 
 .sub-menu a:hover {
